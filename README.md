@@ -4,8 +4,17 @@ developing and delivering software solutions.
  - Proficient with HTML, CSS, Bootstrap, JavaScript, React, and Redux. 
         
  - Extremely dedicated, approachable and mature, with an outgoing personality and a genuine desire to succeed.
+ 
+ - 📫 You could reach me through :
+
+[![my gmail](./gmail.png)](mailto:Ahminasoufiyan@gmail.com) [![my linkedin](./linkedin.png)](https://www.linkedin.com/in/AHMINA/)
+
+- My codewars profile :
+
+[![CODEWARS](https://www.codewars.com/users/AHMINA/badges/large](https://www.codewars.com/users/AHMINA)
 
 <!---
 sosrix/sosrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
