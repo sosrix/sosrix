@@ -7,12 +7,12 @@ developing and delivering software solutions.
  
  ###### You could reach me through :
 
-[![my gmail](./Gmail.png =250x)](mailto:Ahminasoufiyan@gmail.com) [![my linkedin](./LinkedIn.png)](https://www.linkedin.com/in/AHMINA/)
+[![my gmail](./Gmail.png =50x)](mailto:Ahminasoufiyan@gmail.com) [![my linkedin](./LinkedIn.png)](https://www.linkedin.com/in/AHMINA/)
 
 
 ###### My codewars profile :
 
-[![CODEWARS](https://www.codewars.com/users/AHMINA/badges/large=250x)](https://www.codewars.com/users/AHMINA)
+[![CODEWARS](https://www.codewars.com/users/AHMINA/badges/large =50x)](https://www.codewars.com/users/AHMINA)
 
 <!---
 sosrix/sosrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
