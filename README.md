@@ -11,7 +11,7 @@ developing and delivering software solutions.
 
 - My codewars profile :
 
-[![CODEWARS](https://www.codewars.com/users/AHMINA/badges/large](https://www.codewars.com/users/AHMINA)]
+[![CODEWARS](https://www.codewars.com/users/AHMINA/badges/large)](https://www.codewars.com/users/AHMINA)
 
 <!---
 sosrix/sosrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
