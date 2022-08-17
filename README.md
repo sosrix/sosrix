@@ -7,7 +7,7 @@ developing and delivering software solutions.
  
  - 📫 You could reach me through :
 
-[![my gmail](./gmail.png)](mailto:Ahminasoufiyan@gmail.com)] [![my linkedin](./linkedin.png)](https://www.linkedin.com/in/AHMINA/)]
+[![my gmail](./Gmail.png)](mailto:Ahminasoufiyan@gmail.com)] [![my linkedin](./LinkedIn.png)](https://www.linkedin.com/in/AHMINA/)]
 
 - My codewars profile :
 
