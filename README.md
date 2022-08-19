@@ -1,5 +1,4 @@
-## 👋 Hi, I’m Soufiyan Ahmina or @sosrix at github, a software seveloper with over 4 years of experience in
-developing and delivering software solutions. 
+## 👋 Hi, I’m Soufiyan Ahmina or @sosrix at github, a software seveloper with over 4 years of experience in developing and delivering software solutions. 
 
 ## Proficient with HTML, CSS, Bootstrap, JavaScript, React, and Redux. 
         
