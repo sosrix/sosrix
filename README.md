@@ -1,13 +1,13 @@
-- 👋 Hi, I’m Soufiyan Ahmina or @sosrix at github, a software seveloper with over 4 years of experience in
+## 👋 Hi, I’m Soufiyan Ahmina or @sosrix at github, a software seveloper with over 4 years of experience in
 developing and delivering software solutions. 
 
- - Proficient with HTML, CSS, Bootstrap, JavaScript, React, and Redux. 
+## Proficient with HTML, CSS, Bootstrap, JavaScript, React, and Redux. 
         
- - Extremely dedicated, approachable and mature, with an outgoing personality and a genuine desire to succeed.
+## Extremely dedicated, approachable and mature, with an outgoing personality and a genuine desire to succeed.
  
  ###### You could reach me through :
 
-[<img alt="my gmail" width="40px" src="./Gmail.png" />](mailto:Ahminasoufiyan@gmail.com) [<img alt="my linkedin" width="40px" src="./LinkedIn.png" />](https://www.linkedin.com/in/AHMINA/)
+[<img alt="my Gmail" width="40px" src="./Gmail.png" />](mailto:Ahminasoufiyan@gmail.com) [<img alt="my LinkedIn" width="40px" src="./LinkedIn.png" />](https://www.linkedin.com/in/AHMINA/) [<img alt="my Twitter" width="40px" src="./Twitter.png" />](https://twitter.com/SoufianAhmina/)
 
 
 ###### My codewars profile :
