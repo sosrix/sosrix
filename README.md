@@ -2,7 +2,7 @@
 
 ## Proficient with HTML, CSS, Bootstrap, JavaScript, React, and Redux. 
         
-## Extremely dedicated, approachable and mature, with an outgoing personality and a genuine desire to succeed.
+## Extremely dedicated, approachable and mature, with an outgoing personality and a genuine desire to learn.
  
  ###### You could reach me through :
 
