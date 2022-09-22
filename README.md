@@ -1,8 +1,8 @@
-## 👋 Hi, I’m Soufiyan Ahmina or @sosrix at github, a software seveloper with over 4 years of experience in developing and delivering software solutions. 
+## 👋 Hi, I’m Soufiyan Ahmina, a frontEnd developer with a decent experience in developing and delivering software solutions. 
 
-## Proficient with HTML, CSS, Bootstrap, JavaScript, React, and Redux. 
-        
-## Extremely dedicated, approachable and mature, with an outgoing personality and a genuine desire to learn.
+## Proficient with JavaScript, React, and NodeJs.
+
+## Extremely dedicated, approachable and mature, with an outgoing personality and a genuine desire to learn and succeed. 
  
  ###### You could reach me through :
 
