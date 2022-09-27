@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Soufiyan Ahmina, a frontEnd developer with a 4 years experience in developing and delivering software solutions. 
+## 4 years experience in developing and delivering software solutions. 
 
 ## Proficient with JavaScript, React, and NodeJs.
 
