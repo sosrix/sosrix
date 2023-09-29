@@ -1,5 +1,5 @@
-## I am Soufiyan Ahmina
-## I write code mostly in JavaScript.
+### I am Soufiyan Ahmina
+### I write code mostly in JavaScript.
 
 ###### You could reach me through :
 
