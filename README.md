@@ -1,5 +1,7 @@
-### I am Soufiyan Ahmina
-### I write code mostly in JavaScript.
+I’m a developer with experience in building websites for small and medium sized businesses. Whether you’re trying to win work, make a dream site come true - can help!
+I’m experienced in React, Nextjs,Angular, JavaScript and NodeJS...
+I’ll fully manage your project from start to finish
+
 
 ###### You could reach me through :
 
