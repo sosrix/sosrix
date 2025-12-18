@@ -10,17 +10,6 @@
   </a>
 </p>
 
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmina/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosrix&repo=sosrix&theme=buefy" />
-</a>
-  <a href="https://www.linkedin.com/in/ahmina/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosrix&repo=sosrix&theme=buefy" />
-</a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -69,11 +58,16 @@ I work comfortably across the entire stack — from designing intuitive user int
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sosrix&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosrix&repo=sosrix&theme=buefy" />
+
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosrix&theme=tokyonight&count_private=true&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosrix&repo=sosrix&theme=buefy" />
+
 </p>
+
 
 ---
 
