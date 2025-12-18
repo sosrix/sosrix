@@ -54,30 +54,14 @@ I work comfortably across the entire stack — from designing intuitive user int
 
 ---
 
-### 📌 Featured Projects
-
-🔹 **[Project Name]**  
-Brief description of the problem it solves and the value it provides  
-**Tech:** React, Node.js, NestJS  
-🔗 Repo | 🌐 Live Demo
-
-🔹 **[Project Name]**  
-Short explanation of functionality and impact  
-**Tech:** Next.js, TypeScript, REST API  
-🔗 Repo | 🌐 Live Demo
-
-*(Pin your strongest repositories on GitHub to showcase them here)*
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosrix&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sosrix&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosrix&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosrix&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
 ---
