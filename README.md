@@ -52,21 +52,6 @@ I work comfortably across the entire stack — from designing intuitive user int
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosrix&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosrix&repo=sosrix&theme=buefy" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosrix&theme=tokyonight&count_private=true&include_all_commits=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosrix&repo=sosrix&theme=buefy" />
-
-</p>
 
 
 ---
