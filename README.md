@@ -10,6 +10,17 @@
   </a>
 </p>
 
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmina/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosrix&repo=sosrix&theme=buefy" />
+</a>
+  <a href="https://www.linkedin.com/in/ahmina/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosrix&repo=sosrix&theme=buefy" />
+</a>
+</p>
+
 ---
 
 ### 🚀 About Me
